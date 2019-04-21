@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Test5.urllib2" />
+          <option value="Test6.urllib2" />
+          <option value="Test5.session" />
+          <option value="urllib2" />
+          <option value="chapter04.API.Access" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
